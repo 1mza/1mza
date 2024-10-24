@@ -12,7 +12,7 @@ My name is Mostafa Abdelrahman, a recent graduate from the Faculty of Computer S
       <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
     </a>
     <a href="https://x.com/mostafa1_Ali">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
     </a>
   </div>
 </div>
