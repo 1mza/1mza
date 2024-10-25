@@ -4,22 +4,12 @@ My name is Mostafa Abdelrahman, a recent graduate from the Faculty of Computer S
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/mustafa-abdelrahman928/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="120"/>
-    </a>
-    <a href="https://wa.me/201026026108">
-      <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge" width="120"/>
-    </a>
-    <a href="https://x.com/mostafa1_Ali">
-      <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" width="100"/>
-    </a>
-  </div>
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-abdelrahman928/)
+  [![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201026026108)
+  [![X Badge](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mostafa1_Ali)
 </div>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-abdelrahman928/)
-[![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201026026108)
-[![X Badge](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mostafa1_Ali)
+
 
 
 
