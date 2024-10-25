@@ -7,7 +7,6 @@ My name is Mostafa Abdelrahman, a recent graduate from the Faculty of Computer S
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-abdelrahman928/)
   [![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201026026108)
   [![X Badge](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mostafa1_Ali)
-</div>
 
 
 
