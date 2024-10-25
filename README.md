@@ -4,8 +4,7 @@ My name is Mostafa Abdelrahman, a recent graduate from the Faculty of Computer S
 
 
   <div id="header" align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFpOXI1MWR1ajhheTZqZTJwZXN3aWwzZXI3OWR3dzQyZmQ3dnkwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KtSaolWH9ID9tK00vY/giphy.gif" width="100"/>
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW05YnVmYWx4c3YxMm1uNzYzaHZzbW81OWV1bm83bG40bWJycnc2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tYyTAZ34dcJaDJ24GR/giphy.gif" width="100"/>
     <div id="badges">
       <a href="https://www.linkedin.com/in/mustafa-abdelrahman928/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
