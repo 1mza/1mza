@@ -4,7 +4,7 @@ My name is Mostafa Abdelrahman, a recent graduate from the Faculty of Computer S
 
 
   <div id="header" align="center">
-    <img src="https://drive.google.com/file/d/1SUUswvM5KCz7lb7oz9l-IJdr7gUYnGVQ" width="100"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFpOXI1MWR1ajhheTZqZTJwZXN3aWwzZXI3OWR3dzQyZmQ3dnkwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KtSaolWH9ID9tK00vY/giphy.gif" width="100"/>
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
     <div id="badges">
       <a href="https://www.linkedin.com/in/mustafa-abdelrahman928/">
