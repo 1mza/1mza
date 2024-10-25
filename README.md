@@ -2,11 +2,6 @@
 
 My name is Mostafa Abdelrahman, a recent graduate from the Faculty of Computer Science with a passion for building web applications using PHP and Laravel. I'm driven by a deep curiosity for technology and a genuine love for writing clean, efficient code. My journey in computer science has led me to continuously explore new ideas and frameworks, particularly in the Laravel ecosystem, while actively engaging with the tech community to share knowledge and insights. I thrive on solving complex problems and am always eager to learn and grow in the ever-evolving world of web development.
 
-<style>
-  #badges a img {
-    width: 150px; /* Adjust width to make all badges uniform */
-  }
-</style>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
@@ -17,10 +12,21 @@ My name is Mostafa Abdelrahman, a recent graduate from the Faculty of Computer S
       <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
     </a>
     <a href="https://x.com/mostafa1_Ali">
-      <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+      <img class="x-badge" src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
     </a>
   </div>
 </div>
+
+<style>
+  #badges img {
+    width: 150px; /* General width for all badges */
+  }
+
+  .x-badge {
+    width: 180px; /* Specific width for the X badge */
+  }
+</style>
+
 
 ## 🌱 Currently Exploring
 
