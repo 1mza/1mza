@@ -2,12 +2,6 @@
 
 My name is Mostafa Abdelrahman, a recent graduate from the Faculty of Computer Science with a passion for building web applications using PHP and Laravel. I'm driven by a deep curiosity for technology and a genuine love for writing clean, efficient code. My journey in computer science has led me to continuously explore new ideas and frameworks, particularly in the Laravel ecosystem, while actively engaging with the tech community to share knowledge and insights. I thrive on solving complex problems and am always eager to learn and grow in the ever-evolving world of web development.
 
- _                               _
-| |                             | |
-| |     __ _ _ __ __ ___   _____| |
-| |    / _` | '__/ _` \ \ / / _ \ |
-| |___| (_| | | | (_| |\ V /  __/ |
-|______\__,_|_|  \__,_| \_/ \___|_|
 
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
