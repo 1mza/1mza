@@ -19,12 +19,15 @@ My name is Mostafa Abdelrahman, a recent graduate from the Faculty of Computer S
   
 ## 🌱 Currently Exploring
 
-🚀 Learning Full Stack Web Development
-    - Digging deeper into PHP and Laravel for building robust and scalable backend systems.
-    - Beginning the journey into React to create dynamic and interactive front-end applications.
-    - Exploring Laravel Livewire for seamless front-end and back-end interaction.
-    - Strengthening skills in MySQL for efficient and reliable database management.
-    - Looking forward to integrating RESTful APIs with Laravel to support modern web development practices.
+</p>🚀 Learning Full Stack Web Development</p>
+<ul>
+  <li>Digging deeper into PHP and Laravel for building robust and scalable backend systems.</li>
+  <li>Beginning the journey into React to create dynamic and interactive front-end applications.</li>
+  <li>Exploring Laravel Livewire for seamless front-end and back-end interaction.</li>
+  <li>Strengthening skills in MySQL for efficient and reliable database management.</li>
+  <li>Looking forward to integrating RESTful APIs with Laravel to support modern web development practices.</li>
+</ul>
+
       
 ## 📬 Get in Touch
 
