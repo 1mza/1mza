@@ -11,7 +11,7 @@ My name is Mostafa Abdelrahman, a recent graduate from the Faculty of Computer S
     <a href="https://wa.me/201026026108">
       <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
     </a>
-    <a style="width:100px" href="https://x.com/mostafa1_Ali">
+    <a style="width:200px" href="https://x.com/mostafa1_Ali">
       <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
     </a>
   </div>
