@@ -36,6 +36,7 @@ My name is Mostafa Abdelrahman, a recent graduate from the Faculty of Computer S
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/mustafa-abdelrahman928/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. ❤️
+![](https://komarev.com/ghpvc/?username=1mza)
 
 
 
