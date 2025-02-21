@@ -32,7 +32,7 @@ My name is Mostafa Abdelrahman, a recent graduate from the Faculty of Computer S
       
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://x.com/mostafa1_Ali)
+- Connect with me on [X](https://x.com/mostafa1_Ali)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/mustafa-abdelrahman928/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. ❤️</br>
